@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Carlo Isola
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,7 +64,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "carlo.isola@uwaterloo.ca"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
