@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 # Display name
 title: Carlo Isola
 
@@ -7,7 +6,6 @@ title: Carlo Isola
 superuser: true
 
 # Role/position/tagline
-=======
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -36,7 +34,6 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-<<<<<<< HEAD
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
@@ -79,7 +76,6 @@ social:
 email: "carlo.isola@uwaterloo.ca"
 
 # Highlight the author in author lists? (true/false)
-=======
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
