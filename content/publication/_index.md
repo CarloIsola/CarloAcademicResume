@@ -13,4 +13,7 @@ view: 4
 header:
   caption: ""
   image: ""
+date: 2022-03-07T17:50:43.766Z
+description: A list of publications
+lastmod: 2022-03-07T17:51:19.421Z
 ---

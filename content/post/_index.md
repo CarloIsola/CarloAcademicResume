@@ -12,4 +12,6 @@ view: 2
 header:
   caption: ""
   image: ""
+date: 2022-03-07T17:43:20.982Z
+description: Various blog posts and different topics will appear here!
 ---
