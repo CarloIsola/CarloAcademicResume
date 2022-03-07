@@ -10,21 +10,18 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: null
 
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-  
-  # Email form provider
   form:
     provider: formspree
     formspree:
       id: test
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-  
+
 design:
-  columns: '2'
+  columns: "2"
+lastmod: 2022-03-07T18:41:37.276Z
 ---

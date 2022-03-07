@@ -1,5 +1,5 @@
 {
-    "frontMatter.framework.id": "hugo",
-    "frontMatter.content.publicFolder": "static",
-    "frontMatter.content.autoUpdateDate": true
+    "[markdown]": {
+    },
+    "frontMatter.content.fmHighlight": true
 }

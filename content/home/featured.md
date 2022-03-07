@@ -16,16 +16,25 @@ title: Featured Publications
 subtitle: ""
 
 content:
+  # Page type to display. E.g. post, talk, publication...
   page_type: publication
+  # Choose how many pages you would like to display (0 = all pages)
   count: 0
+  # Filter on criteria
   filters:
     author: ""
     category: ""
     publication_type: ""
     tag: ""
+  # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
 design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
   view: 3
-lastmod: 2022-03-07T18:37:20.732Z
 ---
+

@@ -2,12 +2,16 @@
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.content.pageFolders": [
     {
-      "title": "posts",
-      "path": "[[workspace]]/content/post"
-    },
-    {
       "title": "publications",
       "path": "[[workspace]]/content/publication"
+    },
+    {
+      "title": "post",
+      "path": "[[workspace]]/content/post"
     }
-  ]
+  ],
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.content.fmHighlight": false,
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "hugo"
 }
